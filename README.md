@@ -1,4 +1,4 @@
-# Grocery-Store-API
+# Grocery-Store-API-Testing
 This API enables you to place a grocery order that will be prepared for in-store pickup.
 
 # About The Project
