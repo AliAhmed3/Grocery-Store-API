@@ -1,5 +1,5 @@
 # Grocery-Store-API-Testing
-This API enables you to place a grocery order that will be prepared for in-store pickup.
+API Testing Project using Postman.
 
 # About The Project
 
@@ -8,6 +8,8 @@ This project foucses on testing the Grocery-Store-API with Postman, Performing a
 ## The API is available at
 https://simple-grocery-store-api.glitch.me
 
+## Overview
+This API enables you to place a grocery order that will be prepared for in-store pickup.
 
 ## Key Features
 
