@@ -26,13 +26,13 @@ https://simple-grocery-store-api.glitch.me
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AliAhmed3/Restful_Booker_Postman.git
+   git clone https://github.com/AliAhmed3/Grocery-Store-API.git
    ```
 
-2. Import the Postman collection and environment from the `/Postman` folder into your Postman application.
+2. Import the Postman collection from the `/Postman` folder into your Postman application.
 
 3. Run the collection manually in Postman or by **Newman** for automation:
    ```bash
-   newman run Restful-booker.postman_collection.json -e Restful-booker.postman_environment.json
+   newman run Grocery Store API.postman_collection.json
    ```
    you can also add: -r htmlextra at the end of the previous command to generate a HTML reporter which enable users to view better custom templates and provide an Interactive Report.
