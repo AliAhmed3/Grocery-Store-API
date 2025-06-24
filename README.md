@@ -3,7 +3,7 @@ API Testing Project using Postman.
 
 # About The Project
 
-This project foucses on testing the Grocery-Store-API with Postman, Performing a range of API testing techniques to validate the functionality of essential endpoints and assess the system's reliability. The test suite features detailed test cases for creating, retrieving, updating, and deleting bookings.
+This project foucses on testing the Grocery-Store-API with Postman, Performing a range of API testing techniques to validate the functionality of essential endpoints and assess the system's reliability. The test suite features detailed test cases for creating, retrieving, updating, and deleting carts or orders.
 
 ## The API is available at
 https://simple-grocery-store-api.glitch.me
